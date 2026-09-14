@@ -1,8 +1,8 @@
 export const PROPERTY = {
   name: "The Summer House",
   village: "Crantock, Newquay, Cornwall",
-  tagline: "A modern beach house, five minutes' walk from the sand.",
-  description: `A modern day beach house — a beautiful, detached family home just a five-minute walk from both the beach and village life. This gorgeous retreat oozes style and comfort.
+  tagline: "A modern beach house, ten minutes' walk from the sand.",
+  description: `A modern day beach house — a beautiful, detached family home just a ten-minute walk from both the beach and village life. This gorgeous retreat oozes style and comfort.
 
 The Summer House offers fabulous accommodation for your holiday at Crantock, with large sandy beaches to enjoy until your heart's content. The house is furnished to a high standard with a modern kitchen/dining room offering plenty of space for cooking up a feast and dining together after a day on the beach. The cosy sitting room is a great place to retreat at the end of the day. Large doors open onto the contemporary enclosed rear garden — perfect for warm evenings, with a good-sized patio, outdoor seating for al fresco dining, a pizza oven and a fire-pit for toasting marshmallows under the stars.
 
@@ -32,9 +32,9 @@ The charming Cornish village of Crantock has thatched cottages, a village shop, 
     },
   ],
   features: [
-    "5-minute walk to beach and village",
+    "10-minute walk to beach and village",
     "Sleeps up to 6 adults across 3 double rooms, plus a children's twin room",
-    "Enclosed garden with pizza oven and fire-pit",
+    "Enclosed garden with BBQ",
     "Private parking for 2 cars",
     "EV charging point (at cost, payable to the owner)",
     "WiFi throughout",
